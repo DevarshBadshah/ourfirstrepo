@@ -1,2 +1,3 @@
 myapp2.log
 **/*.log target
+myapp2.log myapp3.log
